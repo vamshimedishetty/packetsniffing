@@ -1,7 +1,7 @@
 {
  "catalogs": {
   "fingerprints": {
-   "entries": 722,
+   "entries": 723,
    "file": "fingerprints.json"
   },
   "paths": {
@@ -13,7 +13,7 @@
    "file": "probes.json"
   }
  },
- "generated": "2026-10-26T09:49:32Z",
+ "generated": "2026-11-16T12:33:48Z",
  "schema": 1,
- "serial": 13
+ "serial": 14
 }
